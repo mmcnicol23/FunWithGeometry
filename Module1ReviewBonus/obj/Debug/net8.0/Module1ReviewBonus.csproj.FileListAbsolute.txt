@@ -1,0 +1,15 @@
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\bin\Debug\net8.0\Module1ReviewBonus.exe
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\bin\Debug\net8.0\Module1ReviewBonus.deps.json
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\bin\Debug\net8.0\Module1ReviewBonus.runtimeconfig.json
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\bin\Debug\net8.0\Module1ReviewBonus.dll
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\bin\Debug\net8.0\Module1ReviewBonus.pdb
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.sourcelink.json
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.dll
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\refint\Module1ReviewBonus.dll
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.pdb
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\Module1ReviewBonus.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Repos\Module1ReviewBonus\Module1ReviewBonus\obj\Debug\net8.0\ref\Module1ReviewBonus.dll
